@@ -36,11 +36,13 @@ There will be some quizzes which do not affect your score.
 
 ## Term Poject
 
-+ A game agent using `pyautogui` and `opencv`
+1. A game agent using `pyautogui` and `opencv`
 	+ Candidate 1: Get 1000+ in [Game](http://i-gameworld.com/games/gi2172.php)
     + Your own candidate
     + Propose your term project plan by Oct 25.
-+   [ToolKit Manual](https://hackmd.io/s/HJs_LEC2z)
+	+   [ToolKit Manual](https://hackmd.io/s/HJs_LEC2z)
+2. A network related project
+	+ TBA
 
 ## Grading Policy
 
