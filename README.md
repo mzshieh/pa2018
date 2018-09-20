@@ -1,7 +1,7 @@
 # Introduction to Python Applications, 2018 Fall
 
 +   Instructor: [Min-Zheng Shieh](mailto:mzshieh@nctu.edu.tw) mzshieh@nctu.edu.tw
-+   Teaching Assistants: TBA
++   Teaching Assistants: [吳仲昇](mailto:samsam2310@gmail.com) samsam2310@gmail.com
 
 ## Course Objectives
 
@@ -30,8 +30,8 @@ There will be some quizzes which do not affect your score.
 ## Tutorial
 
 ### Python package installation
-+ [Windows](https://hackmd.io/s/SkBB5Kjwz)
-+ [Mac OS X](https://hackmd.io/s/HJe4WpzOG)
++ [Windows](https://hackmd.io/s/SJYzQFxK7)
++ [Mac OS X](https://hackmd.io/s/SyIEDKgtm)
 + Test: [Dinosaur Jump](http://www.trex-game.skipser.com/)
 
 ## Term Poject
