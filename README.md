@@ -22,6 +22,7 @@
 ## Python Lecture Notes
 
 + [Lecture 1](https://hackmd.io/s/BJh0HolFX)
++ [Lecture 2](https://hackmd.io/s/rkXz8e79Q)
 
 ## Quiz
 
