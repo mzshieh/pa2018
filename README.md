@@ -23,6 +23,7 @@
 
 + [Lecture 1](https://hackmd.io/s/BJh0HolFX)
 + [Lecture 2](https://hackmd.io/s/rkXz8e79Q)
++ [Lecture 3](https://hackmd.io/s/rytNvKBi7)
 
 ## Quiz
 
@@ -39,9 +40,10 @@ There will be some quizzes which do not affect your score.
 
 1. A game agent using `pyautogui` and `opencv`
 	+ Candidate 1: Get 1000+ in [Game](http://i-gameworld.com/games/gi2172.php)
+	+ Candidate 2: Get 3000+ in [Dinosaur Jump](http://www.trex-game.skipser.com/)
     + Your own candidate
-    + Propose your term project plan by Oct 25.
-	+   [ToolKit Manual](https://hackmd.io/s/HJs_LEC2z)
+    + Propose your term project plan by Nov 9.
+	+   [ToolKit Manual](https://hackmd.io/s/B1LbJaRjm)
 2. A network related project
 	+ TBA
 
