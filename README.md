@@ -24,6 +24,7 @@
 + [Lecture 1](https://hackmd.io/s/BJh0HolFX)
 + [Lecture 2](https://hackmd.io/s/rkXz8e79Q)
 + [Lecture 3](https://hackmd.io/s/rytNvKBi7)
++ [Lecture 4](https://hackmd.io/s/rJ72YsmA7)
 
 ## Quiz
 
@@ -44,6 +45,13 @@ There will be some quizzes which do not affect your score.
     + Your own candidate
     + Propose your term project plan by Nov 9.
 	+   [ToolKit Manual](https://hackmd.io/s/B1LbJaRjm)
+	+ Record a demo video (Length limit: 10 minutes) and upload to [YouTube](https://www.youtube.com/)
+		+	With your voice to explain the project
+		+	Use you mobile phone or software like [OBS](https://obsproject.com/).
+	+ Upload your codes to [Codeshare](https://codeshare.io/) or [Ideone](https://ideone.com/).
+	+ Submit your data and links to this [form](https://goo.gl/forms/iaUD7zb2RqKtw5sz2).
+		+	If you do not have a Google account, you may apply [G Suite](https://www.it.nctu.edu.tw/?page_id=68).
+	+ The deadline is Nov 29, and the deadline is hard. If you want to negotiate, DO IT IN MY CLASS.
 2. A network related project
 	+ TBA
 
