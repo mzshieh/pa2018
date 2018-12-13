@@ -25,6 +25,7 @@
 + [Lecture 2](https://hackmd.io/s/rkXz8e79Q)
 + [Lecture 3](https://hackmd.io/s/rytNvKBi7)
 + [Lecture 4](https://hackmd.io/s/rJ72YsmA7)
++ [Lecture 5](https://hackmd.io/s/B1SFdDye4)
 
 ## Quiz
 
@@ -53,7 +54,10 @@ There will be some quizzes which do not affect your score.
 		+	If you do not have a Google account, you may apply [G Suite](https://www.it.nctu.edu.tw/?page_id=68).
 	+ The deadline is Nov 29, and the deadline is hard. If you want to negotiate, DO IT IN MY CLASS.
 2. A network related project
-	+ TBA
+	+ Candidate 1: Use provided [sample](pa18final.py) to create a program that reads meaningful contents for you.
+    + Your own candidate
+    + Propose your term project plan by  9.
+
 
 ## Grading Policy
 
