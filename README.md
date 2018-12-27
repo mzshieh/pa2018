@@ -17,6 +17,7 @@
     +   Python 3: [Official Documents](https://docs.python.org/3/)
     +   PyAutoGUI: [Documents](https://pyautogui.readthedocs.io/en/latest/)
     +   OpenCV: [Documents](https://docs.opencv.org/)
++	[How to send email attachment](https://stackoverflow.com/questions/3362600/how-to-send-email-attachments)
 
 
 ## Python Lecture Notes
