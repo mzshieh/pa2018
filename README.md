@@ -57,7 +57,8 @@ There will be some quizzes which do not affect your score.
 2. A network related project
 	+ Candidate 1: Use provided [sample](pa18final.py) to create a program that reads meaningful contents for you.
     + Your own candidate
-    + Propose your term project plan by  9.
+    + Propose your term project plan by Jan 9.
+    + Upload your project to here[https://goo.gl/forms/GSbk3Ug2xdQ0AlKG2] before 23:59, Jan 17.
 
 
 ## Grading Policy
