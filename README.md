@@ -18,6 +18,8 @@
     +   PyAutoGUI: [Documents](https://pyautogui.readthedocs.io/en/latest/)
     +   OpenCV: [Documents](https://docs.opencv.org/)
 +	[How to send email attachment](https://stackoverflow.com/questions/3362600/how-to-send-email-attachments)
++	[Telegram](https://telegram.org/)
+	+	[telegram-send](https://pypi.org/project/telegram-send/)
 
 
 ## Python Lecture Notes
